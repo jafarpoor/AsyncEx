@@ -1,0 +1,15 @@
+F:\AsyncEx\AsyncPro\BeginInvoke\bin\Debug\net6.0\BeginInvoke.exe
+F:\AsyncEx\AsyncPro\BeginInvoke\bin\Debug\net6.0\BeginInvoke.deps.json
+F:\AsyncEx\AsyncPro\BeginInvoke\bin\Debug\net6.0\BeginInvoke.runtimeconfig.json
+F:\AsyncEx\AsyncPro\BeginInvoke\bin\Debug\net6.0\BeginInvoke.dll
+F:\AsyncEx\AsyncPro\BeginInvoke\bin\Debug\net6.0\BeginInvoke.pdb
+F:\AsyncEx\AsyncPro\BeginInvoke\obj\Debug\net6.0\BeginInvoke.csproj.AssemblyReference.cache
+F:\AsyncEx\AsyncPro\BeginInvoke\obj\Debug\net6.0\BeginInvoke.GeneratedMSBuildEditorConfig.editorconfig
+F:\AsyncEx\AsyncPro\BeginInvoke\obj\Debug\net6.0\BeginInvoke.AssemblyInfoInputs.cache
+F:\AsyncEx\AsyncPro\BeginInvoke\obj\Debug\net6.0\BeginInvoke.AssemblyInfo.cs
+F:\AsyncEx\AsyncPro\BeginInvoke\obj\Debug\net6.0\BeginInvoke.csproj.CoreCompileInputs.cache
+F:\AsyncEx\AsyncPro\BeginInvoke\obj\Debug\net6.0\BeginInvoke.dll
+F:\AsyncEx\AsyncPro\BeginInvoke\obj\Debug\net6.0\refint\BeginInvoke.dll
+F:\AsyncEx\AsyncPro\BeginInvoke\obj\Debug\net6.0\BeginInvoke.pdb
+F:\AsyncEx\AsyncPro\BeginInvoke\obj\Debug\net6.0\BeginInvoke.genruntimeconfig.cache
+F:\AsyncEx\AsyncPro\BeginInvoke\obj\Debug\net6.0\ref\BeginInvoke.dll

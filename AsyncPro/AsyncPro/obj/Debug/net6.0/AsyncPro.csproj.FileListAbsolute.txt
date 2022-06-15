@@ -1,0 +1,15 @@
+F:\AsyncEx\AsyncPro\AsyncPro\bin\Debug\net6.0\AsyncPro.exe
+F:\AsyncEx\AsyncPro\AsyncPro\bin\Debug\net6.0\AsyncPro.deps.json
+F:\AsyncEx\AsyncPro\AsyncPro\bin\Debug\net6.0\AsyncPro.runtimeconfig.json
+F:\AsyncEx\AsyncPro\AsyncPro\bin\Debug\net6.0\AsyncPro.dll
+F:\AsyncEx\AsyncPro\AsyncPro\bin\Debug\net6.0\AsyncPro.pdb
+F:\AsyncEx\AsyncPro\AsyncPro\obj\Debug\net6.0\AsyncPro.csproj.AssemblyReference.cache
+F:\AsyncEx\AsyncPro\AsyncPro\obj\Debug\net6.0\AsyncPro.GeneratedMSBuildEditorConfig.editorconfig
+F:\AsyncEx\AsyncPro\AsyncPro\obj\Debug\net6.0\AsyncPro.AssemblyInfoInputs.cache
+F:\AsyncEx\AsyncPro\AsyncPro\obj\Debug\net6.0\AsyncPro.AssemblyInfo.cs
+F:\AsyncEx\AsyncPro\AsyncPro\obj\Debug\net6.0\AsyncPro.csproj.CoreCompileInputs.cache
+F:\AsyncEx\AsyncPro\AsyncPro\obj\Debug\net6.0\AsyncPro.dll
+F:\AsyncEx\AsyncPro\AsyncPro\obj\Debug\net6.0\refint\AsyncPro.dll
+F:\AsyncEx\AsyncPro\AsyncPro\obj\Debug\net6.0\AsyncPro.pdb
+F:\AsyncEx\AsyncPro\AsyncPro\obj\Debug\net6.0\AsyncPro.genruntimeconfig.cache
+F:\AsyncEx\AsyncPro\AsyncPro\obj\Debug\net6.0\ref\AsyncPro.dll
